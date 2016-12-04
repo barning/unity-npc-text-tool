@@ -1,0 +1,4 @@
+Hello, Pleace click with your mouse.
+I know, this solution is not the best.
+But it's quite simple and perfect for 2D top-down games.
+Bye
